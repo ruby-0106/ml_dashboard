@@ -1,4 +1,4 @@
-# ml_dashboard
+# ml_dashboard(Individual Project)
 Machine Learning Prediction Project with Power BI insight dashboard
 
 **Dataset**: Bank Marketing Campagin Dataset(cleaned) 
