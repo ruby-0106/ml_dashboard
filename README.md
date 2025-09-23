@@ -24,26 +24,56 @@ For the dashboard, I used powerbi.
 
 
 The **insights** from that: 
+
+
 **(1)** Conversion Rate is 11.7 % 
+
+
 **(2)** Sale Volume *Count* is 5,289.
+
+
 **(3)** Top Deposit Clients:
+
+
                 aged: 25-40,  
+
+                
                 job: Management, Technician, Blue-collar, 
+
+                
                 marital status: Single, Married, 
+
+                
                 education: Secondary & Tertiary 
+
+                
 **(4)** Clients who have 
 ✅personal loan-> ❌deposit(least likely) 
+
+
 **(5)** Clients who have✅housing loan   ->  ✅deposit(possible) 
 
+
 **(6)** Clients’ large yearly balance doesn’t mean they made a high deposit 
+
+
 **(7)** Next Campaign should reduce contacting to the clients and the duration of contacts. 
+
+
 **(8)** During the next campaign, contacting to the clients with cellular type is strongly 
 recommended. 
+
+
 **(9)** From April to August is the best period to offer term deposit to the clients. 
+
+
 **(10)** Current Campaign attracted many new deposit clients and re-contacting recent 
 clients also boosted deposit sales.
+
+
 **(11)** Previous campaign has effects on the current campaign and this current campaign 
 could turn the failed results from the previous into success. 
+
 
  **Data for better analysis:**
 ▪ Deposit amount in numbers
