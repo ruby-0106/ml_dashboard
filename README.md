@@ -81,7 +81,7 @@ could turn the failed results from the previous into success.
 ▪ What kind of contact types more specific 
 (eg. Phone call, email, SMS Text Message, In-app notification) 
 
-For the further insight for my work process and thinking, recommend you to check in the file named **"bankMarketing_dataset_dashboard"** and **"bankMarketing_dataset_ prediction"**. Please **Download those files first** in order to view the process. 
+For the further insight for my work process and thinking, recommend you to check in the file named **"bankMarketing_dataset_dashboard"** and **"bankMarketing_dataset_ prediction"**. Please ⬇️**Download those files first** in order to view the process. 
    There, I explained details steps how I worked with the data.
    
    Thank you!! 😉
