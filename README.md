@@ -5,7 +5,7 @@ Machine Learning Prediction Project with Power BI insight dashboard
 **Output**: 1/ Predict will the cilent buy the deposit or not
         2/ PowerBI dashboard for insights of the dataset 
 **Tools**: Jupyter Notebook, PowerBI
-**Pandas, Random Forest Machine Learning Model.**
+**Pandas, Scikit-learn Python Library, Random Forest Machine Learning Algorithm.**
 
 **Working Process**: For the prediction, the dataset is cleaned and I made sure that there is no null values, duplicates and typos. For that, I quickly checked by using pandas.
                     After that, I chose client information attributes since there are mandatory data for every client. 
